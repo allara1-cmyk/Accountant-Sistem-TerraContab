@@ -24,3 +24,6 @@ Homestead.yaml
 Thumbs.db
 # Ignorar datos de MySQL Docker
 docker/mysql_data/
+
+
+
